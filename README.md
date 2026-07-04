@@ -49,10 +49,60 @@ inspection categories.
 The analysis focuses on identifying the most common violations, the violations most likely to result in an Out-of-Service
 order, and opportunities for preventative action.
 
+## Tools Used
 
+- SQL
+    - Data cleaning
+    - Aggregation
+    - Analysis
 
+- Tableau Public
+    - Dashboard development
+    - Data visualization
 
+- GitHub
+    - Project documentation
 
+## Process
+
+1. Collected FMCSA inspection data
+
+2. Cleaned and validated the dataset using SQL
+
+3. Calculated violation and Out-of-Service metrics
+
+4. Built interactive Tableau dashboards
+
+5. Identified operational trends and recommendations
+
+## Dashboard
+
+*(Dashboard screenshot coming soon.)*
+
+## Recommendations
+
+- Increase emphasis on tire inspection during pre-trip and post-trip inspections.
+
+- Reinforce preventive maintenance programs focused on common roadside failures.
+
+- Implement recurring driver retraining instead of one-time onboarding instruction.
+
+- Use inspection trends to prioritize maintenance resources where they will have the greatest operational impact.
+
+## Project Files
+
+- SQL queries
+- Tableau workbook
+- Dashboard images
+- README
+
+## About Me
+
+I have spent more than 20 years working in the trucking industry as both a CDL driver and an Operations Manager.
+
+Today, I'm combining that operational experience with data analytics to help transportation companies make better decisions through data.
+
+My focus is practical decision support—using analytics to improve safety, efficiency, and operational performance.
 
 
 
