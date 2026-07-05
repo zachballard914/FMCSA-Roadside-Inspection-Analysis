@@ -4,7 +4,6 @@
 
 - 📊 Interactive Tableau Dashboard
 - 🗄 SQL Analysis Script
-- 🖼 Dashboard Preview
 - 📖 Project Documentation
 
 ## Project Overview
