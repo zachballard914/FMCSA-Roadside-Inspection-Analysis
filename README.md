@@ -94,10 +94,6 @@ This analysis uses the FMCSA Roadside Inspection Violations report with the foll
 
 https://public.tableau.com/app/profile/zachary.ballard7860/viz/FMCSARoadsideInspectionViolationAnalysis/DashboardFinal
 
-## Dashboard Preview
-
---- ![Dashboard](Images/Dashboard.png) ---
-
 ## Recommendations
 
 - Increase emphasis on tire inspection during pre-trip and post-trip inspections.
