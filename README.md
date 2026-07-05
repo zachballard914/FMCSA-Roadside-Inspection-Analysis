@@ -83,9 +83,13 @@ This analysis uses the FMCSA Roadside Inspection Violations report with the foll
 
 5. Identified operational trends and recommendations
 
-## Dashboard
+## Interactive Dashboard
 
-*(Dashboard screenshot coming soon.)*
+https://public.tableau.com/app/profile/zachary.ballard7860/viz/FMCSARoadsideInspectionViolationAnalysis/DashboardFinal
+
+## Dashboard Preview
+
+--- ![Dashboard](Images/Dashboard.png) ---
 
 ## Recommendations
 
