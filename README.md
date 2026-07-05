@@ -38,16 +38,24 @@ This project was designed to answer four questions:
 
 4. What practical steps can carriers take to reduce preventable violations?
 
-## Data Source
+## Data Source & Scope
 
-The data used in this project comes from the Federal Motor Carrier Safety Administration (FMCSA) and includes roadside
-inspection violations from calendar year 2025.
+The data used in this project comes from the Federal Motor Carrier Safety Administration (FMCSA) Roadside Inspection 
+Violations report.
 
-The dataset contains more than 23 million recorded violations across driver, vehicle, hazardous materials, and other
-inspection categories.
+The analysis uses the FMCSA National Roadside Inspection report configured for calendar years 2022–2026 and includes more
+than 23 million recorded violations across vehicle, driver, hazardous materials, and other inspection categories.
 
-The analysis focuses on identifying the most common violations, the violations most likely to result in an Out-of-Service
-order, and opportunities for preventative action.
+The project focuses on identifying the most common violations, the violations most likely to result in an Out-of-Service 
+(OOS) order, and opportunities for preventative action.
+
+This analysis uses the FMCSA Roadside Inspection Violations report with the following configuration:
+
+- Report Focus: National
+- Calendar Years: 2022–2026
+- Domicile: All Domiciles
+- Vehicle Type: All Vehicle Types
+- Violation Type: All Types
 
 ## Tools Used
 
@@ -100,7 +108,8 @@ order, and opportunities for preventative action.
 
 I have spent more than 20 years working in the trucking industry as both a CDL driver and an Operations Manager.
 
-Today, I'm combining that operational experience with data analytics to help transportation companies make better decisions through data.
+Today, I'm combining that operational experience with data analytics to help transportation companies make better decisions 
+through data.
 
 My focus is practical decision support—using analytics to improve safety, efficiency, and operational performance.
 
