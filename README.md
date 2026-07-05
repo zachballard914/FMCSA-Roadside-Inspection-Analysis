@@ -1,5 +1,12 @@
 # FMCSA Roadside Inspection Violation Analysis | Calendar Years 2022-2026
 
+## Repository Contents
+
+- 📊 Interactive Tableau Dashboard
+- 🗄 SQL Analysis Script
+- 🖼 Dashboard Preview
+- 📖 Project Documentation
+
 ## Project Overview
 
 After spending more than 20 years in the trucking industry as both a CDL driver and an Operations Manager, I wanted to use
